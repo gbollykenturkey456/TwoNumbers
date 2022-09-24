@@ -1,0 +1,17 @@
+body{
+    background-color: darkgray;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.calculate {
+    width: 400px;
+    height: 200px;
+    border: chartreuse;
+    border-color: brown;
+
+}
